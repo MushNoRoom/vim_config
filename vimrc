@@ -7,7 +7,7 @@ set shiftwidth=2
 set smartindent
 filetype plugin indent on
 syntax on
-colorscheme neon 
+colorscheme spring 
 set autochdir
 set hlsearch
 set ls=2
